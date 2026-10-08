@@ -192,6 +192,7 @@ Feedstock Maintainers
 
 * [@MarcoGorelli](https://github.com/MarcoGorelli/)
 * [@girip11](https://github.com/girip11/)
+* [@jsmolic](https://github.com/jsmolic/)
 * [@rxm7706](https://github.com/rxm7706/)
 * [@s-weigand](https://github.com/s-weigand/)
 
